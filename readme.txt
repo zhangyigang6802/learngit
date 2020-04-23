@@ -10,3 +10,6 @@ creating a new branch is quick
 new branch featurel
 >>>>>>> feature1
 quick and simple
+
+
+new branch dev
